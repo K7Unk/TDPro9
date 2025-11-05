@@ -13,5 +13,3 @@ def deretfibonaci(n):
         deret.append(deret[i-1] + deret[i-2])
     print(deret)
 deretfibonaci(6)
-
-    

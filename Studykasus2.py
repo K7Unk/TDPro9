@@ -14,3 +14,8 @@ def volume_tabung(jari_jari,tinggi):
     return volume
 
 print(volume_tabung(7,10))
+
+def kelilingsegitiga(a,b,c)
+    keliling = a + b + c
+    print(keliling)
+kelilingsegitiga(1,2,3)
