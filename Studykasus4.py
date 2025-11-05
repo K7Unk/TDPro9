@@ -32,3 +32,8 @@ def login(a):
                 
 login(3)
 
+def sapa(a):
+    print(f"Halo ! {a}")
+
+sapa("Fauzi")
+
